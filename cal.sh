@@ -6,3 +6,7 @@ mul
 a*b
 div
 a/b
+
+pert
+a%b
+
