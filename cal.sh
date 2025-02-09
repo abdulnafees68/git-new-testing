@@ -8,5 +8,5 @@ div
 a/b
 
 pert
-a%b
+a&%b
 
