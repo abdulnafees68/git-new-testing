@@ -10,3 +10,5 @@ a/b
 pert
 a&%b
 
+.
+total
